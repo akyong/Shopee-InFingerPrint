@@ -1,0 +1,30 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# File sementara
+*.log
+*.cache
+*.tmp
+*.swp
+
+# Direktori build atau output
+dist/
+build/
+out/
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
+
+# File node_modules (jika menggunakan npm untuk pengembangan di masa depan)
+node_modules/
+
+# File sensitif
+.env
+*.key
+*.pem
+
+# File ikon sementara (jika Anda menyimpan file mentah)
+*.psd
+*.ai

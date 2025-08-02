@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Fetcher</title>
+    <script src="bobbyakyong.css"></script>
+</head>
+<body class="bg-gray-100 p-4 w-[400px] font-sans">
+<div class="bg-white rounded-lg shadow-lg p-4">
+    <h1 class="text-lg font-bold text-gray-800 mb-3">Daftar Link Produk</h1>
+    <label for="excludeIds" class="block text-sm text-gray-600 mb-1">Exclude Item IDs (pisahkan dengan ;):</label>
+    <input type="text" id="excludeIds" class="w-full p-2 border rounded-md text-sm mb-3 focus:outline-none focus:ring-2 focus:ring-blue-500" placeholder="itemid1;itemid2;itemid3">
+    <textarea id="htmlOutput" rows="10" class="w-full p-2 border rounded-md text-sm bg-gray-50 resize-none mb-3" readonly></textarea>
+    <button id="fetchButton" class="w-full bg-blue-600 text-white p-2 rounded-md hover:bg-blue-700 transition">Ambil Link</button>
+    <footer class="mt-4 text-center text-xs text-gray-500">
+        <p>&copy; 2025 HTML Fetcher by Bobby Akyong</p>
+        <p><a href="https://www.bobbyakyong.com" target="_blank" class="text-blue-500 hover:underline">www.bobbyakyong.com</a></p>
+        <p>Untuk kebutuhan khusus, hubungi saya di <a href="mailto:iam@bobbyakyong.com" class="text-blue-500 hover:underline">iam@bobbyakyong.com</a></p>
+    </footer>
+</div>
+<script src="popup.js"></script>
+</body>
+</html>
