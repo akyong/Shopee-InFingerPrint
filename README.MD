@@ -62,8 +62,8 @@ The source code for HTML Fetcher is the exclusive property of Bobby Akyong. Unau
 ## Contact
 Developed by Bobby Akyong.  
 - Website: [www.bobbyakyong.com](https://www.bobbyakyong.com)  
-- Email: [contact@bobbyakyong.com](mailto:contact@bobbyakyong.com)  
-For custom requirements, collaboration, or usage permissions, please reach out via the email above.
+- Email: [iam@bobbyakyong.com](mailto:iam@bobbyakyong.com)  or  [bobbyakyong@gmail.com](mailto:bobbyakyong@gmail.com)
+  For custom requirements, collaboration, or usage permissions, please reach out via the email above.
 
 ## Contributions
 Due to the commercial nature of this project, external contributions are not accepted without written permission. For suggestions or collaboration inquiries, contact the developer.
