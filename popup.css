@@ -34,3 +34,9 @@ button {
 button:hover {
     background-color: #45a049;
 }
+
+.bobby-checkbox {
+    accent-color: #1d4ed8; /* warna biru */
+    box-shadow: 0 0 4px rgba(0,0,0,0.3);
+    border-radius: 4px;
+}
